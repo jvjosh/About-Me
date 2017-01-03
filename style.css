@@ -1,0 +1,15 @@
+h1 {
+font-family: helvetica;
+}
+
+p {
+color: lightgrey;
+}
+
+.more-content{
+  background: #0000FF;
+}
+
+#somthing-else{
+  border: 5px dashed #FF0000
+}
