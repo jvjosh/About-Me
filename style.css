@@ -9,6 +9,11 @@ font-size: 18px;
 font-family: fantasy;
 }
 
+ul {
+  color: red;
+    border: 5px inset
+}
+
 .more-content{
   background: #00FFFF;
   font-family: cursive;
